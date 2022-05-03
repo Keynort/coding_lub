@@ -1,0 +1,14 @@
+nav .navbar-nav li a{
+    color: rgb(27, 177, 77) !important;
+}
+
+.fa-instagram {
+    background: white;
+    color: white;
+    border-radius: 5px;
+  }
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
